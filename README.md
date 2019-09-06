@@ -5,7 +5,7 @@ There are 4 pages in this assingnment:
 * About Us
 * Contact Us
 * Solutions  
-All of this pages are created using Html5.
+
 The things I learned this week are:
 1. Differnt Tags of Html5 such as:
 	1. Head tags
